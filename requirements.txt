@@ -1,0 +1,12 @@
+astroid==2.8.0
+autopep8==1.5.7
+isort==5.9.3
+lazy-object-proxy==1.6.0
+mccabe==0.6.1
+platformdirs==2.4.0
+pycodestyle==2.7.0
+pylint==2.11.1
+toml==0.10.2
+typed-ast==1.4.3
+typing-extensions==3.10.0.2
+wrapt==1.12.1
