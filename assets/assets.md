@@ -1,0 +1,1 @@
+Assets for web-app
