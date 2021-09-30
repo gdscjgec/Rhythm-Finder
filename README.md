@@ -52,18 +52,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur sequi
-voluptate dicta id. Nulla recusandae voluptatem nostrum officiis, quaerat
-suscipit tempora ducimus, fuga iste eaque esse voluptate. Voluptatem,
-dolores quisquam.
+**Rhythm-Finder** is a unsupervised ML driven python powered web-application that can
+find the songs that suits you. It takes your basic data 
+over music taste and gives you some song which you might like .
 
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [Bootstrap](https://getbootstrap.com)
-- [JQuery](https://jquery.com)
-- [Laravel](https://laravel.com)
+- [Python](https://www.python.org/)
 
 <!-- GETTING STARTED -->
 
@@ -76,28 +73,25 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
+- Install Python on System  : [Download](https://www.python.org/downloads/)
+- You can install Python via [Anaconda Installer](https://docs.anaconda.com/anaconda/install/index.html).
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/gdscjgec/Rhythm-Finder.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
+2. Install dependencies
+    ```
+    cd Rhythm-Finder
+    pip install requirements.txt
+    ```
+3. Open terminal and go to the folder using `cd` command example : `cd <FILE_PATH>`
+4. Run the command 
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+   streamlit run app.py
    ```
 
-<!-- USAGE EXAMPLES -->
 
 ## Usage
 
