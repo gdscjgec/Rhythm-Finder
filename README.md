@@ -1,12 +1,9 @@
 <!-- PROJECT LOGO -->
-<div align="center"><img src="https://github.com/gdscjgec/Rhythm-Finder/blob/main/assets/H-fest_banner.png"></div>
+<div align="center"><img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" alt="Banner" width="60%"/></div>
 <br />
 <p align="center">
-  <a href="https://github.com/gdscjgec">
-    <img src="" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Project Name</h3>
+  <h3 align="center">Rhythm Finder</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -73,7 +70,7 @@ To get a local copy up and running follow these simple example steps.
 ## Dataset
 
 - We will be using the ***spotify dataset*** encoded in `csv` format.
-- Link of the dataset : [Download Dataset](https://discord.com/channels/878471542818881566/887228780299583498/893391634945957919)
+- Link of the dataset : [Download Dataset](https://drive.google.com/file/d/1whUKZ-BB4-VKEanDRVteti5mawjnux5o/view)
 
 ### Prerequisites
 
