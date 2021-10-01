@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/gdscjgec">
-    <img src="https://raw.githubusercontent.com/ZiaCodes/Rhythm-Finder/main/assets/Artboard%201%404x.png" alt="Logo" width="500">
+    <img src="https://raw.githubusercontent.com/ZiaCodes/Rhythm-Finder/main/assets/Artboard%201%404x.png" alt="Logo" width="400">
   </a>
 
 <p align="center">
