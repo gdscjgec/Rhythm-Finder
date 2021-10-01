@@ -1,4 +1,5 @@
 <!-- PROJECT LOGO -->
+<div align="center"><img src="https://github.com/gdscjgec/Rhythm-Finder/blob/main/assets/H-fest_banner.png"></div>
 <br />
 <p align="center">
   <a href="https://github.com/gdscjgec">
