@@ -69,6 +69,11 @@ This section should list any major frameworks that you built your project using.
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
+## Dataset
+
+- We will be using the ***spotify dataset*** encoded in `csv` format.
+- Link of the dataset : [Download Dataset](https://discord.com/channels/878471542818881566/887228780299583498/893391634945957919)
+
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
