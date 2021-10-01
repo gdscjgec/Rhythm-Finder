@@ -1,6 +1,12 @@
 <!-- PROJECT LOGO -->
 <div align="center"><a href="https://hacktoberfest.digitalocean.com/"><img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" alt="Banner" width="60%"/></a></div>
 <br />
+
+<p align="center">
+  <a href="https://github.com/gdscjgec">
+    <img src="https://edit-photo-demo.netlify.app/assets/logo/logo_gif.gif" alt="Logo">
+  </a>
+
 <p align="center">
 
   <h3 align="center">Rhythm Finder</h3>
