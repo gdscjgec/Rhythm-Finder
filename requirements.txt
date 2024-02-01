@@ -12,7 +12,7 @@ platformdirs==2.4.0
 pybase64==1.1.4
 pycodestyle==2.7.0
 pylint==2.11.1
-scikit-learn==0.23.2
+scikit-learn==1.0.1
 streamlit==0.78.0
 toml==0.10.2
 typed-ast==1.4.3
